@@ -1,5 +1,5 @@
 # ToDo-app
-  
+ToDo app with authentication in Django
   
   
 # Intallation
